@@ -1,0 +1,8 @@
+___Ticket Information___
+Row: A
+Seat: 3
+Price: £200
+
+___Personal Details___
+Name: gaindu amarasinghe
+Email: gaindu2k03@gmail.com

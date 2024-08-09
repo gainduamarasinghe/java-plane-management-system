@@ -1,0 +1,8 @@
+___Ticket Information___
+Row: A
+Seat: 12
+Price: £180
+
+___Personal Details___
+Name: 1 1
+Email: 1

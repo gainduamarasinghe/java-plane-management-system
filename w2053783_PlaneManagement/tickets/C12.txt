@@ -1,0 +1,8 @@
+___Ticket Information___
+Row: C
+Seat: 12
+Price: £180
+
+___Personal Details___
+Name: asd sad
+Email: asdf
